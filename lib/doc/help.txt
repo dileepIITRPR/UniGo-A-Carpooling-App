@@ -1,0 +1,8 @@
+Help
+
+1. You can offer your ride that you wish to offer via offer button on home page.
+2. You can join by requesting rides offered by other users via join button on home page.
+3. You can view your rides on my rides page. In your offered rides you can accpet or reject requests by other users and also cancel rides. In you joined rides, you can leave the ride. In both of them, you can contact other fellow passengers.
+4. You can view status of your requests on the requests page.
+5. You can change your password and contact, and also logout via profile options in account page.
+6. In case of any query or suggestions to make the app better, make sure to contact us through the about us page.

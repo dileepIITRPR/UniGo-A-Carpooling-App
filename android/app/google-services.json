@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558181251435",
+    "project_id": "carpool-8d602",
+    "storage_bucket": "carpool-8d602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558181251435:android:d4ae3774d160562e11742e",
+        "android_client_info": {
+          "package_name": "com.unigo.carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558181251435-5fc6bmfuva73o6s2677a31f750qpgsvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFClCV051OW7Uc_WEd38EU_xMOM5ejGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558181251435-5fc6bmfuva73o6s2677a31f750qpgsvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
